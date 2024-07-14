@@ -5,3 +5,5 @@ War Psychic is a Survival First Person game. Set during world war times. You pla
 The game features destructible environment using Unreal Engine 5 Chaos Physics.
 
 The UI utilizes Unreal Motion Graphics (UMG).
+
+Download Released version on Itch.io: [War-Psychic](https://usbgames.itch.io/war-psychic)
